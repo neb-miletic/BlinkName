@@ -45,7 +45,7 @@ void loop() {
 
     delay(1000);
     
-    // pause between the 
+    // pause between the letters
     
     // letter e - dot
     digitalWrite(led1, HIGH);
