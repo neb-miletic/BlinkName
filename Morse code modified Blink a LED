@@ -43,7 +43,7 @@ void loop() {
 	digitalWrite(led1, LOW);
 	digitalWrite(led2, LOW);
 
-    delay(1000);
+     delay(1000);
     
     // pause between the letters
     
